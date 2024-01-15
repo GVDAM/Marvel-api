@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\bin\Debug\net6.0\Marvel.Infra.deps.json
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\bin\Debug\net6.0\Marvel.Infra.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\bin\Debug\net6.0\Marvel.Infra.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\bin\Debug\net6.0\Marvel.Core.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\bin\Debug\net6.0\Marvel.Core.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.csproj.CopyComplete
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\refint\Marvel.Infra.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\Marvel.Infra.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Data\obj\Debug\net6.0\ref\Marvel.Infra.dll

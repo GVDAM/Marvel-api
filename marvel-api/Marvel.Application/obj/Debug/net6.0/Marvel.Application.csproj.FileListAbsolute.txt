@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Application.deps.json
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Core.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Infra.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Infra.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\bin\Debug\net6.0\Marvel.Core.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CopyComplete
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\refint\Marvel.Application.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\Marvel.Application.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Application\obj\Debug\net6.0\ref\Marvel.Application.dll

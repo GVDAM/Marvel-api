@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\bin\Debug\net6.0\Marvel.Core.deps.json
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\bin\Debug\net6.0\Marvel.Core.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\bin\Debug\net6.0\Marvel.Core.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\refint\Marvel.Core.dll
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\Marvel.Core.pdb
+C:\Users\Gabriel\Documents\GitHub\marvel-api\Marvel.Domain\obj\Debug\net6.0\ref\Marvel.Core.dll

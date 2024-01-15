@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Fy0rwDGVtULRsGBO3QYqXpH8DQbyl9D0x5c/aVCDMhKjGfnHO0FYsSnGls9U48uM6PLobW76xnwFzyUWZ1cXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitHub\\marvel-api\\Marvel.Domain\\Marvel.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
