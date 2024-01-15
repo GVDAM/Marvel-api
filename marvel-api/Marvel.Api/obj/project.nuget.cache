@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ig5PwcgnngU9nWoOoNgM3NmIns1sKcd+l8MrfgupJGmPtThXbG3j83N3rM9W1E8OJGkSJS3lRjToegy8Lqc5OA==",
+  "dgSpecHash": "UHlQL9q1W911LlBel9J/fSk83VafiC4iC3P728aTPB38EE8J72aAj8kzPYg5wEwuRTOqOa8DLFHRmD6eq2y9pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitHub\\marvel-api\\Marvel.Api\\Marvel.Api.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitHub\\Marvel-api\\marvel-api\\Marvel.Api\\Marvel.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",

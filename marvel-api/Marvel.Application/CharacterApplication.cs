@@ -11,6 +11,8 @@ namespace Marvel.Application
         private readonly IMarvelService _marvelService;
         private readonly IFavoriteMarvelCharacterRepository _favoriteMarvelCharacterRepository;
 
+        private const int FIRST_PAGE = 0;
+
         public CharacterApplication(IMarvelService marvelService,
             IFavoriteMarvelCharacterRepository favoriteMarvelCharacterRepository)
         {
@@ -24,7 +26,7 @@ namespace Marvel.Application
             {
                 var allFavorits = new List<FavoriteCharacter>();
 
-                if (filters.Skip == 0)
+                if (filters.Skip == FIRST_PAGE)
                     allFavorits = await _favoriteMarvelCharacterRepository.GetAll();
 
                 var result = new Data();
